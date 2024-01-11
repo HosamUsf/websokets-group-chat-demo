@@ -51,21 +51,8 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
-### Description
 
-```
-WebSockets Group Chat Demo
 
-A simple demonstration of a group chat application built using WebSockets and the Spring framework. This project showcases real-time communication in a group chat setting and serves as a starting point for developers interested in integrating WebSocket functionality into their Spring applications.
 
-Key Features:
-- Real-time group chat experience
-- WebSocket communication implementation
-- Built with the Spring framework
 
-Get started by cloning the repository and following the provided instructions in the README. Contributions are welcome through the standard GitHub fork and pull request workflow.
-
-License: MIT
-```
