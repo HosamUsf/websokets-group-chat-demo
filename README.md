@@ -1,6 +1,5 @@
 
 
-```markdown
 #  Group Chat Application
 
 This repository contains a simple demonstration of a group chat application built using WebSockets. The application is developed with the Spring framework, showcasing the integration of WebSocket functionality.
