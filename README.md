@@ -47,8 +47,6 @@ This repository contains a simple demonstration of a group chat application buil
 
 If you'd like to contribute to this project, please follow the standard GitHub fork and pull request workflow.
 
-## License
-
 
 
 
